@@ -1,5 +1,5 @@
 
-Below is a template for your README file to describe your Java Spring Boot backend project utilizing microservices architecture with Eureka Server for service discovery. This README should provide a comprehensive overview of your project, including its purpose, features, setup instructions, and usage guidelines.
+Below is a template for your README file to describe your Java Spring Boot backend project utilizing microservices architecture without using Eureka Server for service discovery. This README should provide a comprehensive overview of your project, including its purpose, features, setup instructions, and usage guidelines.
 
 Microservices Backend with Spring Boot
 
