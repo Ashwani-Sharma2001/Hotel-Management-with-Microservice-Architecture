@@ -4,8 +4,8 @@ Below is a template for your README file to describe your Java Spring Boot backe
 Microservices Backend with Spring Boot
 
 Overview
-This project is a Java Spring Boot backend application built on a microservices architecture. It consists of three services: Hotel Portion, Rating Portion, and User Portion. The services communicate with each other through a Eureka Server for service discovery.
-It has Enabled Spring Security with Jwt_Token.
+This project is a Java Spring Boot backend application built on a microservices architecture. It consists of three services: Hotel Portion, Rating Portion, and User Portion. 
+It has Enabled Spring Security with Jwt_Token Authentication.
 
 Features
 Hotel Portion Service: Manages hotel-related functionalities such as creating, updating, and retrieving hotel information.
@@ -15,9 +15,8 @@ Eureka Server: Provides service discovery and registration for microservices.
 Communication: Utilizes RESTful APIs for inter-service communication.
 
 Prerequisites
-Java JDK (11 or later)
+Java JDK (20 or later)
 Maven
-Docker (for running Eureka Server)
 Setup
 
 Clone the Repository:
